@@ -1,0 +1,10 @@
+
+> my-app@0.1.0 build
+> evershop build
+
+WARNING: NODE_ENV value of 'production' did not match any deployment config file names.
+WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+WARNING: No configurations found in configuration directory:C:\Users\zildj\my-app\config
+WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+i Compiling Client
+i Compiling Server
